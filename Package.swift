@@ -15,6 +15,6 @@ let package = Package(
       .binaryTarget(
          name: "FortunaShared",
          url: "https://github.com/AntePrpic/FortunaShared/raw/main/FortunaShared.xcframework.zip",
-         checksum:"a1272de73646104a382bba02d23bfa2f38a9416f4ab1a0073b1484f59f64b8a9")
+         checksum:"3ffe2fb0b67728c585ec04150aa6d4b1a3ae18e86810f2915848feac6a4d7443")
    ]
 )
